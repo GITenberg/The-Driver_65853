@@ -1,0 +1,24 @@
+_repo: The-Driver_65853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garrett, Garet
+    alias: Garrett, Edward Peter
+    birthdate: 1878
+    deathdate: 1954
+    gutenberg_agent_id: '51042'
+    url: http://www.gutenberg.org/2009/agents/51042
+    wikipedia: https://en.wikipedia.org/wiki/Garet_Garrett
+description: ''
+gutenberg_issued: '2021-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Driver
+url: http://www.gutenberg.org/ebooks/65853
